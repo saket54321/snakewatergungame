@@ -1,2 +1,3 @@
 # snakewatergungame
-this is snake water gun game
+this is snake water gun game in python
+
